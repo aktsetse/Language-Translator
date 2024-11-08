@@ -10,8 +10,8 @@ Transalte one language to another language
 
 ### How to run the script	
 Execute `python3 python translator.py`	
-- After then you have choices to select language by their code	
-- Enter Sentence and you will get translated language	
+- After that you will have choices to select language by their code	eg: en.
+- Enter your desired text and the translated text would be provided in your selected language	
 
 ### Language options and their code	
 | Code      | Language |	
