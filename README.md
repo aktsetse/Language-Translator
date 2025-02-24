@@ -38,4 +38,4 @@ Execute `python3 python translator.py`
 ![image](https://github.com/user-attachments/assets/4c16ce00-b2df-465f-99b4-b84ae0f5863f)
 
 ## *Author Name*	
-[Amenuveveve Kwame Tsetse](https://github.com/aktsetse/)
+[Amenuveve Kwame Tsetse](https://github.com/aktsetse/)
